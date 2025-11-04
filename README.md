@@ -10,14 +10,15 @@ The Coding Club website is a landing page for parents and children looking for a
 4. Contact section
 
 ## How to View the Project
-- [View the deployed website](https://Darksyntax99.github.io/codingclub/)
+- View the deployed website: https://Darksyntax99.github.io/my-first-project/
 
 ## Credits
-- The code for the social media icon animations was taken from -[View the deployed website](https://Darksyntax99.github.io/codingclub/)
+- Social media icon animation code adapted from: https://Darksyntax99.github.io/my-first-project/
 - Thanks to my mentor Rudy Matheson for his patience and support as I built out this project.
+
 ## Markdown practice
 
 Building | a table | with markdown
 --- | --- | ---
 *Italic text* | **bold text** | inline code
-42 | 400 | 97 
+42 | 400 | 97
